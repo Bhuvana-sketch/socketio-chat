@@ -1,1 +1,30 @@
-SocketIO Chat is a real-time chat application built using Socket.IO, Node.js, and Express.js that enables instant, bi-directional communication between multiple users. The application leverages WebSocket-based event-driven architecture to deliver seamless message broadcasting with low latency. It demonstrates core concepts of real-time systems, including client-server communication, event handling, and scalable messaging, making it a practical implementation of modern web socket technology.
+# 💬 Real-Time Chat Application
+
+A real-time chat application built using Node.js, Express.js, and Socket.IO.
+
+## 🚀 Features
+- Real-time messaging
+- Multiple users support
+- Instant message broadcasting
+- Clean UI
+- WebSocket-based communication
+
+## 🛠 Tech Stack
+- Node.js
+- Express.js
+- Socket.IO
+- HTML
+- CSS
+- JavaScript
+
+## 📌 What I Learned
+- WebSocket communication
+- Event-driven programming
+- Real-time server-client interaction
+- Handling multiple users
+
+## ▶️ How to Run
+1. Clone the repository
+2. Run `npm install`
+3. Run `node index.js`
+4. Open in browser
